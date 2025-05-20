@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate full-stack developer and design
 ---
 
 ## 🔧 Currently Working On
-- 🌐 [New Testament Church Of God Kenya Website](#) *(in development)*
+- 🌐 [New Testament Church Of God Kenya Website](#ntcogk.vercel.app) *(in development)*
 
 ---
 
