@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently building **smart assistants and modern websites** with AI + automation  
 - 🧠 Exploring **React Native** and **AI-powered SaaS tools**  
-- 🌍 Founder of [OMYTECH](https://omytech.tech) – Digital services for a smarter world  
+- 🌍 Founder of [OMYTECH](https://omytech.vercel.app) – Digital services for a smarter world  
 - 🧰 Passionate about **no-code tools**, **automation**, and **edtech innovation**  
 - ✍🏾 I write clean, scalable, and production-ready code
 
@@ -28,8 +28,8 @@
 ### 🚀 Projects I'm Proud Of
 
 - 🧠 [**SignBridge AI**](https://signbridge.tech) — AI assistant for sign language translation  
-- 🚌 **Nairobi Smart Travel Assistant** — Built for the Bolt.new Hackathon  
-- 📚 **eduBridge** — Connecting learners to CBC curriculum resources  
+- 🚌 [**Nairobi Smart Travel Assistant**](https://nairobismarttravel.vercel.app) — Built for the Bolt.new Hackathon  
+- 📚 [**eduBridge**](https://edubridge.vercel.app) — Connecting learners to CBC curriculum resources  
 - 🖥️ [OMYTECH Website](https://omytech.tech) — My digital agency and portfolio hub  
 
 ---
@@ -48,11 +48,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omillofidel&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omillo-charles&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omillofidel&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omillo-charles&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
