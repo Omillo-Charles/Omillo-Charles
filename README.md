@@ -37,10 +37,10 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:omillofidel@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/omillocharles"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/omillofidel"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://omytech.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:fidelomillo812@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/omillo-charles"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/omillo_charles"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://omillocharles.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
@@ -50,11 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omillo-charles&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omillofidel&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 ---
 
