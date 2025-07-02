@@ -1,72 +1,68 @@
-# 👋 Hello, I’m Omillo Charles
+<h1 align="center">Hi 👋, I'm Omillo Charles</h1>
+<h3 align="center">A passionate full-stack developer, automation enthusiast, and founder of OMYTECH.</h3>
 
-Welcome to my GitHub profile! I’m a passionate full-stack developer and designer who enjoys building modern, responsive web applications with clean UI/UX.
-
----
-
-## 🔧 Currently Working On
-- 🌐 [New Testament Church Of God Kenya Website](#ntcogk.vercel.app) *(in development)*
-
----
-
-## 🚀 Skills & Tools
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva"/>
-
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital+%F0%9F%93%BB;React+%7C+Next.js+%7C+Firebase+%7C+Tailwind" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
-- 🔄 Backend Development with Node.js & Firebase
-- 📦 API Development & Deployment
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently building **smart assistants and modern websites** with AI + automation  
+- 🧠 Exploring **React Native** and **AI-powered SaaS tools**  
+- 🌍 Founder of [OMYTECH](https://omytech.tech) – Digital services for a smarter world  
+- 🧰 Passionate about **no-code tools**, **automation**, and **edtech innovation**  
+- ✍🏾 I write clean, scalable, and production-ready code
 
 ---
 
-## 🏆 Achievements & Highlights
-- 💼 Freelance Web Developer – Delivered several React-based business websites and dashboards
-- 🏆 Participant – Perplexity Hackathon 2025 *(in progress)*
-- ⭐ GitHub Pro Member
-- 🎨 UI/UX Designer with Canva & Figma
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,firebase,nodejs,express,mongodb,git,github,vscode,figma,python,linux,bash,vercel,netlify" />
+</p>
 
 ---
 
-## 📬 Contact Me
-- 📱 WhatsApp: [+254 745 511 354](https://wa.me/254745511354)
-- 📧 Email: [fidelomillo812@gmail.com](mailto:fidelomillo812@gmail.com)
+### 🚀 Projects I'm Proud Of
+
+- 🧠 [**SignBridge AI**](https://signbridge.tech) — AI assistant for sign language translation  
+- 🚌 **Nairobi Smart Travel Assistant** — Built for the Bolt.new Hackathon  
+- 📚 **eduBridge** — Connecting learners to CBC curriculum resources  
+- 🖥️ [OMYTECH Website](https://omytech.tech) — My digital agency and portfolio hub  
 
 ---
 
-## ⚡ Fun Fact
-I work at night and sleep during the day — nocturnal productivity at its finest 🌙
+### 📫 Let's Connect
+
+<p>
+  <a href="mailto:omillofidel@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/omillocharles"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/omillofidel"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://omytech.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 
-<!-- GitHub Stats (Optional) -->
-<!--
-![Omillo Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=radical)
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omillofidel&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omillofidel&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I automate tasks so I can spend more time building new ideas!
+
+
+
+
+
+ 
