@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer, automation enthusiast, and founder of OMYTECH.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital+%F0%9F%93%BB;React+%7C+Next.js+%7C+Firebase+%7C+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital+%F0%9F%93%BB;Next.js+%7C+Firebase+%7C+Tailwind" alt="Typing SVG" />
 </p>
 
 ---
