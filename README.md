@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently building **smart assistants and modern websites** with AI + automation  
 - 🧠 Exploring **React Native** and **AI-powered SaaS tools**  
-- 🌍 Founder of [OMYTECH](https://omytech.vercel.app) – Digital services for a smarter world  
+- 🌍 Founder of [OMYTECH](https://omytech.co.ke) – Digital services for a smarter world  
 - 🧰 Passionate about **no-code tools**, **automation**, and **edtech innovation**  
 - ✍🏾 I write clean, scalable, and production-ready code
 
