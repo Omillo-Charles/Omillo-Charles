@@ -38,8 +38,17 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omillo-Charles&theme=dracula" alt="Omillo's GitHub Profile" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omillo-Charles&theme=dracula" alt="Omillo's Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omillo-Charles&theme=dracula" alt="Omillo's Most Used Languages" />
+</p>
+
 
 
 ### Fun Fact
