@@ -41,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
 </p>
 
+
 ### Fun Fact
 
 > I automate tasks to focus on building innovative solutions.
