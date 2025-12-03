@@ -29,16 +29,16 @@
 ### Connect with Me
 
 <p>
-  <a href="mailto:fidelomillo812@gmail.com"><img src="https://img.shields.io/badge/Email-Professional-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/omillo-charles"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/omillo_charles"><img src="https://img.shields.io/badge/Twitter-Professional-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://omillo.omytech.co.ke"><img src="https://img.shields.io/badge/Portfolio-Professional-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:fidelomillo812@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/omillo-charles"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/omillo_charles"><img src="https://img.shields.io/badge/Twitter-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://omillo.omytech.co.ke"><img src="https://img.shields.io/badge/Portfolio-OMYTECH-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omillo-charles&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=radical" alt="Omillo's GitHub stats" />
 </p>
 
 ### Fun Fact
