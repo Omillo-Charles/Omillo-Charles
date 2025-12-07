@@ -16,7 +16,7 @@
 ### Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,firebase,nodejs,express,mongodb,postgresql,git,github,vscode,figma,python,linux,bash,vercel,netlify,c,cpp,appwrite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,firebase,nodejs,express,mongodb,postgresql,aws,git,github,vscode,figma,python,linux,bash,vercel,netlify,c,cpp,appwrite" />
 </p>
 
 
