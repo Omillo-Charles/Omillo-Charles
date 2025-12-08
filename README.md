@@ -50,6 +50,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omillo-Charles&theme=dracula" alt="Omillo's Most Used Languages" />
 </p>
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Omillo-Charles&style=for-the-badge&color=blue)
+<img src="https://profile-counter.glitch.me/Omillo-Charles/count.svg" />
 
 
 ### Fun Fact
