@@ -27,7 +27,6 @@
 - [**Bush Photography**](https://bushphotography.omytech.co.ke) — Professional photography portfolio showcasing work with galleries, contact forms, and responsive design  
 - [**OMYTECH Website**](https://omytech.co.ke) — Official website of my digital agency, demonstrating services, projects, and portfolio highlights  
 
-## Let's Connect
 
 <div align="left">
   
@@ -36,6 +35,7 @@
 <p align="left"> <a href="mailto:fidelomillo812@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a> <a href="https://linkedin.com/in/omillocharles"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a> <a href="https://twitter.com/omillo_charles"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a> <a href="https://github.com/omillo-charles"><img src="https://skillicons.dev/icons?i=github" height="40" /></a> <a href="https://instagram.com/omytech_kenya"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a> <a href="https://omillo.omytech.co.ke"><img src="https://skillicons.dev/icons?i=chrome" height="40" /></a> </p>
 
 </div>
+
 
 ### GitHub Stats
 
