@@ -33,7 +33,7 @@
   
 ### Get in Touch
   
-<p align="left"> <a href="mailto:fidelomillo812@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="30" />&nbsp; **Email** </a> &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/omillocharles"> <img src="https://skillicons.dev/icons?i=linkedin" height="30" />&nbsp; **LinkedIn** </a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/omillo_charles"> <img src="https://skillicons.dev/icons?i=twitter" height="30" />&nbsp; **Twitter** </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/omillo-charles"> <img src="https://skillicons.dev/icons?i=github" height="30" />&nbsp; **GitHub** </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/omytech_kenya"> <img src="https://skillicons.dev/icons?i=instagram" height="30" />&nbsp; **Instagram** </a> &nbsp;&nbsp;&nbsp; <a href="https://omillo.omytech.co.ke"> <img src="https://skillicons.dev/icons?i=chrome" height="30" />&nbsp; **Website** </a> </p>
+<p align="left"> <a href="mailto:fidelomillo812@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a> <a href="https://linkedin.com/in/omillocharles"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a> <a href="https://twitter.com/omillo_charles"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a> <a href="https://github.com/omillo-charles"><img src="https://skillicons.dev/icons?i=github" height="40" /></a> <a href="https://instagram.com/omytech_kenya"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a> <a href="https://omillo.omytech.co.ke"><img src="https://skillicons.dev/icons?i=chrome" height="40" /></a> </p>
 
 </div>
 
