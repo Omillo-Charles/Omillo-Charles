@@ -33,26 +33,7 @@
   
 ### Get in Touch
   
-<p align="left">
-  <a href="mailto:fidelomillo812@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/omillocharles">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/omillo_charles">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/omillo-charles">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/omytech_kenya">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://omillo.omytech.co.ke">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+<p align="left"> <a href="mailto:fidelomillo812@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="30" />&nbsp; **Email** </a> &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/omillocharles"> <img src="https://skillicons.dev/icons?i=linkedin" height="30" />&nbsp; **LinkedIn** </a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/omillo_charles"> <img src="https://skillicons.dev/icons?i=twitter" height="30" />&nbsp; **Twitter** </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/omillo-charles"> <img src="https://skillicons.dev/icons?i=github" height="30" />&nbsp; **GitHub** </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/omytech_kenya"> <img src="https://skillicons.dev/icons?i=instagram" height="30" />&nbsp; **Instagram** </a> &nbsp;&nbsp;&nbsp; <a href="https://omillo.omytech.co.ke"> <img src="https://skillicons.dev/icons?i=chrome" height="30" />&nbsp; **Website** </a> </p>
 
 </div>
 
