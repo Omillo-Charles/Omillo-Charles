@@ -36,27 +36,26 @@
   <a href="mailto:fidelomillo812@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/omillocharles">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/omillo_charles">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/omillo-charles">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/omytech_kenya">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://wa.me/254745511354">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WhatsApp.svg" height="45" />
+  </a>
 
   <a href="https://omillo.omytech.co.ke">
     <img src="https://skillicons.dev/icons?i=chrome" height="45" />
