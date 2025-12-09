@@ -32,7 +32,43 @@
   
 ### Get in Touch
   
-<p align="left"> <a href="mailto:fidelomillo812@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a> <a href="https://linkedin.com/in/omillocharles"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a> <a href="https://twitter.com/omillo_charles"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a> <a href="https://github.com/omillo-charles"><img src="https://skillicons.dev/icons?i=github" height="40" /></a> <a href="https://instagram.com/omytech_kenya"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a> <a href="https://omillo.omytech.co.ke"><img src="https://skillicons.dev/icons?i=chrome" height="40" /></a> </p>
+<!-- Contact icons: compact, spaced, black X for Twitter -->
+<p align="left">
+  <a href="mailto:fidelomillo812@gmail.com" aria-label="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/omillocharles" target="_blank" aria-label="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/omillo_charles" target="_blank" aria-label="X (Twitter)">
+    <!-- black X icon as inline SVG data URI -->
+    <img
+      src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><g fill='%23000'><rect x='10.5' y='2' width='3' height='20' transform='rotate(45 12 12)' rx='1.5'/><rect x='10.5' y='2' width='3' height='20' transform='rotate(-45 12 12)' rx='1.5'/></g></svg>"
+      height="45"
+      alt="X"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/omillo-charles" target="_blank" aria-label="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/omytech_kenya" target="_blank" aria-label="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://omillo.omytech.co.ke" target="_blank" aria-label="Website">
+    <img src="https://skillicons.dev/icons?i=chrome" height="45" />
+  </a>
+</p>
+
 
 </div>
 
