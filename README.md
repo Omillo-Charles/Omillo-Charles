@@ -53,10 +53,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
 
-  <a href="https://wa.me/254745511354">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WhatsApp.svg" height="45" />
-  </a>
-
   <a href="https://omillo.omytech.co.ke">
     <img src="https://skillicons.dev/icons?i=chrome" height="45" />
   </a>
