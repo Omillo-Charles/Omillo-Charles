@@ -28,41 +28,6 @@
 - [**OMYTECH Website**](https://omytech.co.ke) — Official website of my digital agency, demonstrating services, projects, and portfolio highlights  
 
 
-<div align="left">
-  
-### Get in Touch
-  
-<p align="left">
-  <a href="mailto:fidelomillo812@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-
-  <a href="https://linkedin.com/in/omillocharles">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-
-  <a href="https://twitter.com/omillo_charles">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-  </a>
-
-  <a href="https://github.com/omillo-charles">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-
-  <a href="https://instagram.com/omytech_kenya">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
-
-  <a href="https://omillo.omytech.co.ke">
-    <img src="https://skillicons.dev/icons?i=chrome" height="45" />
-  </a>
-</p>
-
-
-
-</div>
-
-
 ### GitHub Stats
 
 <p align="center">
