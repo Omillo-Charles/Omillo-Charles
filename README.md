@@ -23,8 +23,7 @@
 ### Projects
 
 - [**New Testament Church Of God Kenya**](https://ntcogk.vercel.app) — Church website with modern UI/UX, event management, and AI-driven features for better user engagement  
-- [**Ebenezer Academy**](https://ebenezer-rosy.vercel.app) — School website featuring course management, student resources, and seamless information flow  
-- [**Bush Photography**](https://bushphotography.omytech.co.ke) — Professional photography portfolio showcasing work with galleries, contact forms, and responsive design  
+- [**Joshh Photography**](https://joshh.vercel.app) — Professional photography portfolio showcasing work with galleries, contact forms, and responsive design  
 - [**OMYTECH Website**](https://omytech.co.ke) — Official website of my digital agency, demonstrating services, projects, and portfolio highlights  
 
 
