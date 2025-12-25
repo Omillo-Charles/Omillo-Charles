@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Omillo Charles</h1>
-<h3 align="center">Full-stack Developer, Automation Enthusiast, Project Lead at OMYTECH</h3>
+<h3 align="center">Full-stack Developer, Automation Enthusiast, Project Lead, OMYTECH</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital;Next.js+%7C+NodeJS+%7C+Tailwind" alt="Typing SVG" />
