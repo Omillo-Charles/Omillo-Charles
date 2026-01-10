@@ -27,19 +27,13 @@
 - [**OMYTECH Website**](https://omytech.co.ke) — Official website of my digital agency, demonstrating services, projects, and portfolio highlights  
 
 
-### GitHub Stats
+### GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=dark&hide_border=true" alt="Omillo-Charles GitHub stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omillo-Charles&theme=dark&hide_border=true" alt="GitHub streak stats" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Omillo-Charles&theme=github-dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omillo-Charles&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omillo-Charles&layout=compact&theme=github_dark)
 
 ### Fun Fact
 
