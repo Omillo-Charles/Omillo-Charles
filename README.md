@@ -30,15 +30,15 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omillo-Charles&theme=dracula" alt="Omillo's GitHub Profile" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=dark&hide_border=true" alt="Omillo-Charles GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omillo-Charles&theme=dracula" alt="Omillo's Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omillo-Charles&theme=dark&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omillo-Charles&theme=dracula" alt="Omillo's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omillo-Charles&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 ### Fun Fact
