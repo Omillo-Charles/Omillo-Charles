@@ -29,7 +29,7 @@
 
 ## GitHub Activity
 
-https://github.com/Omillo-Charles
+![Metrics](https://raw.githubusercontent.com/Omillo-Charles/Omillo-Charles/main/github-metrics.svg)
 
 
 ### Fun Fact
