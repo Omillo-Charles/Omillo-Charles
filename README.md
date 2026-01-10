@@ -27,9 +27,11 @@
 - [**OMYTECH Website**](https://omytech.co.ke) — Official website of my digital agency, demonstrating services, projects, and portfolio highlights  
 
 
-## GitHub Activity
+## GitHub Overview
 
-![Metrics](https://raw.githubusercontent.com/Omillo-Charles/Omillo-Charles/main/github-metrics.svg)
+![Followers](https://img.shields.io/github/followers/Omillo-Charles?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Omillo-Charles?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
 
 
 ### Fun Fact
