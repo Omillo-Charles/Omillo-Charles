@@ -15,7 +15,7 @@
 
 ### Skills & Tools
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" />
