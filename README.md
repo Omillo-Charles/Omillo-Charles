@@ -50,8 +50,6 @@
   </tr>
 </table>
 
-<br />
-
 ### Projects
 
 - **[New Testament Church Of God Kenya](https://ntcogk.vercel.app)** — Church website with modern UI/UX, event management, and AI-driven features  
