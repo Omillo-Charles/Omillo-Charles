@@ -54,7 +54,7 @@
 
 - **[New Testament Church Of God Kenya](https://github.com/Omillo-Charles/NTChurchOfGodNextJSWebsiteFrontend.git)** — Church website with modern UI/UX, event management, and AI-driven features  
 - **[OMYTECH Kenya Contact Form RestFul API](https://github.com/Omillo-Charles/omytechKenyaContactFormRestAPI.git)** — Professional photography portfolio with galleries and responsive design  
-- **[OMYTECH Website](https://omytech.co.ke)** — Official website of my digital agency  
+- **[Customer Quote Request RestFul API](https://github.com/Omillo-Charles/ExpressJSCustomerQuoteRequestRestAPI.git)** — Official website of my digital agency  
 
 ### Fun Fact
 
