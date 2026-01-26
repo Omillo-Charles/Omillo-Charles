@@ -61,13 +61,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Omillo-Charles&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omillo-Charles&layout=compact&theme=tokyonight&hide_border=true"
     height="150"
   />
