@@ -53,6 +53,8 @@
 ### GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omillo-Charles&theme=github-compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true)
+
 
 ### Projects
 
