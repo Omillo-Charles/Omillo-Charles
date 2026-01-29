@@ -52,14 +52,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=transparent&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omillo-Charles&theme=github-compact&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omillo-Charles&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Omillo-Charles&theme=transparent&hide_border=true)
-
 
 ### Projects
 
