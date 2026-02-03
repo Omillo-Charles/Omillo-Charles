@@ -60,6 +60,6 @@
 - **[OMYTECH Kenya Contact Form RestFul API](https://github.com/Omillo-Charles/omytechKenyaContactFormRestAPI.git)** — Professional photography portfolio with galleries and responsive design  
 - **[Customer Quote Request RestFul API](https://github.com/Omillo-Charles/ExpressJSCustomerQuoteRequestRestAPI.git)** — Official website of my digital agency  
 
-### Fun Fact
-
-> I automate tasks to focus on building innovative solutions.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</div>
