@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Omillo Charles</h1>
-<h3 align="center">Full-stack Developer, Automation Enthusiast, Project Lead at OMYTECH</h3>
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,13,20&height=200&section=header&text=Luke%20Tsalwa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital;NextJS+%7C+ExpressJS+%7C+TailwindCSS" alt="Typing SVG" />
