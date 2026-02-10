@@ -10,7 +10,7 @@
 
 - Currently building **smart assistants and modern websites** with AI + automation  
 - Exploring **React Native** and **Java**  
-- Project lead at **[OMYTECH](https://omytech.co.ke)** – Digital services for a smarter world  
+- Project lead at the **[OMYTECH](https://omytech.co.ke)** – Digital services for a smarter world  
 - Passionate about **no-code tools**, **automation**, and **edtech innovation**  
 - I write clean, scalable, and production-ready code  
 
