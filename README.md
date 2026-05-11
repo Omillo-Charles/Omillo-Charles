@@ -60,9 +60,7 @@
 </table>
 
 ### GitHub Stats
-
 <div align="center">
-
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img
