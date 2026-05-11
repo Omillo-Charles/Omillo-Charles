@@ -63,14 +63,7 @@
 
 <div align="center">
 
-  <h2>
-    🖥️ Github Activity
-    <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-  </h2>
+
 
   <p align="left">
     <img src="https://github.com/mwakidenis/mwakidenis/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
