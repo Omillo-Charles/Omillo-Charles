@@ -63,15 +63,6 @@
 
 <div align="center">
 
-  <h2>
-    🖥️ Github Activity
-    <img
-      height="40"
-      alt="Developer Omillo"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-  </h2>
-
   <p align="left">
   <img src="https://github.com/Omillo-Charles/Omillo-Charles/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
