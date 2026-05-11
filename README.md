@@ -67,13 +67,13 @@
     🖥️ Github Activity
     <img
       height="40"
-      alt="Mwaki Denis"
+      alt="Omillo Charles"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
   </h2>
 
   <p align="left">
-    <img src="https://github.com/mwakidenis/mwakidenis/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://github.com/Omillo-Charles/Omillo-Charles/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
   </p>
 
   <div align="center">
@@ -85,22 +85,22 @@
   </div>
   
   <div align="center">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mwakidenis&show_icons=true&theme=radical"/>
-    <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mwakidenis&theme=radical"/>
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Omillo-Charles&show_icons=true&theme=radical"/>
+    <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Omillo-Charles&theme=radical"/>
   </div>
 
   <table>
     <tr>
       <td width="33%">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Omillo-Charles&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
       </td>
 
       <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwakidenis&theme=transparent" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omillo-Charles&theme=transparent" />
       </td>
 
       <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=transparent&utc_offset=5.5" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omillo-Charles&theme=transparent&utc_offset=5.5" />
       </td>
     </tr>
   </table>
@@ -109,13 +109,13 @@
 
 <div align="center">
   <img
-    src="https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    src="https://github-trophies.vercel.app/?username=Omillo-Charles&theme=discord&no-frame=true&no-bg=true&margin-w=4"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/mwakidenis"
+    src="https://ghchart.rshah.org/Omillo-Charles"
     alt="GitHub Contribution Chart"
   />
 </div>
