@@ -61,18 +61,7 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=Omillo-Charles&theme=discord&no-frame=true&no-bg=true&margin-w=4"
-  />
-</div>
 
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/Omillo-Charles"
-    alt="GitHub Contribution Chart"
-  />
-</div>
 
 ### Projects
 
