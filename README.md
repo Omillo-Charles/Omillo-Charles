@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="100%" 
+    style="max-width:100%; height:auto;"
+  />
+</div>
+
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,13,20&height=200&section=header&text=Omillo%20Charles&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20FullStack%20Developer%20|%20System%20Architect&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
