@@ -59,14 +59,12 @@
   </tr>
 </table>
 
+
 ### GitHub Stats
 
 <div align="center">
-
-
-
   <p align="left">
-    <img src="https://github.com/mwakidenis/mwakidenis/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://github.com/Omillo-Charles/Omillo-Charles/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
   </p>
 
   <div align="center">
