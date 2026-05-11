@@ -120,19 +120,6 @@
   />
 </div>
 
----
-
-### ✨ Fun Zone
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-</div>
-
-## Random Developer Quote 💡
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### Projects
 
 - **[New Testament Church Of God Kenya](https://github.com/Omillo-Charles/NTChurchOfGodNextJSWebsiteFrontend.git)** — Church website with modern UI/UX, event management, and AI-driven features  
