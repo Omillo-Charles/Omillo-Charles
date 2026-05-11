@@ -63,10 +63,6 @@
 
 <div align="center">
 
-  <p align="left">
-  <img src="https://github.com/Omillo-Charles/Omillo-Charles/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-</p>
-
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img
