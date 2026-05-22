@@ -4,4 +4,4 @@ A Software Engineer with 3+ years of experience building reliable and scalable s
 
 **Languages & Tools**
 
-Java · Spring Boot · TypeScript · JavaScript · MySQL
+Java · TypeScript · JavaScript 
