@@ -4,9 +4,7 @@ Fullstack Software Engineer with 3 years of experience building scalable web app
 
 ## Tech Stack
 
-* JavaScript
-* TypeScript
-* Java
+JavaScript • TypeScript • Java
 
 ## About Me
 
