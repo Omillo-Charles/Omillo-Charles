@@ -1,4 +1,4 @@
-# Hi, I am Omillo Charles 
+<h2>Hi, I am Omillo Charles </h2> 
 
 Fullstack Software Engineer with 3 years of experience building scalable web applications and backend systems.
 
