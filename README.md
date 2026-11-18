@@ -47,11 +47,11 @@ A Software Engineer with 3 years of experience building reliable and scalable so
     </td>
     <td width="50%" valign="top">
       <a href="https://soltecelectric.co.ke/">
-        <img src="YOUR_SOLTEC_SCREENSHOT_URL" width="100%" alt="Soltec Electric"/>
+        <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795031837/Screenshot_2026-11-18_22-56-52_ihsrvo.png" width="100%" alt="Soltec Electric"/>
       </a>
       <h3>Soltec Electric</h3>
       <p>Responsive frontend website designed to establish a professional digital presence for an electrical solutions company.</p>
-      <a href="https://soltecelectric.co.ke/">🌐 Live Demo</a>
+      <a href="https://soltecelectric.co.ke/">soltecelectric.co.ke</a>
     </td>
   </tr>
   <tr>
