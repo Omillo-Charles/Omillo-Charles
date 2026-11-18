@@ -78,14 +78,6 @@ A Software Engineer with 3 years of experience building reliable and scalable so
 <p align="center">
   <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795032592/White_Black_Simple_Personal_LinkedIn_Banner_vzxn88.png" width="100%" alt="Omillo Charles Banner"/>
 </p>
----
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=180&section=footer&text=Keep%20Building.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65"
-    width="100%"
-    alt="Keep Building"
-  />
-</p>
 
 
 
