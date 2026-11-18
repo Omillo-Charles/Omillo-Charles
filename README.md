@@ -29,11 +29,11 @@ A Software Engineer with 3 years of experience building reliable and scalable so
     </td>
     <td width="50%" valign="top">
       <a href="https://churchproject.omytechkenya.co.ke/">
-        <img src="YOUR_NTCOG_SCREENSHOT_URL" width="100%" alt="NTCOG Event Platform"/>
+        <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795031516/Screenshot_2026-11-18_22-51-24_epdxak.png" width="100%" alt="NTCOG Event Platform"/>
       </a>
       <h3>NTCOG Kenya – Event Platform</h3>
       <p>Event registration and management platform with online payments and participant management.</p>
-      <a href="https://churchproject.omytechkenya.co.ke/">🌐 Live Demo</a>
+      <a href="https://youthexplosion.or.ke/">youthexplosion.or.ke</a>
     </td>
   </tr>
   <tr>
