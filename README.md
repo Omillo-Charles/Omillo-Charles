@@ -10,4 +10,6 @@
 
 A Software Engineer with 3 years of experience building reliable and scalable software.
 
-Java · TypeScript · JavaScript 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,mysql,mongodb,git,github,vercel,figma" />
+</p>
