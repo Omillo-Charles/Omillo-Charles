@@ -11,5 +11,5 @@
 A Software Engineer with 3 years of experience building reliable and scalable software.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,mysql,mongodb,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,java,mysql,postgres,mongodb,git,github,postman,vercel,cloudflare,aws,docker,kubernetes,figma,vscode" />
 </p>
