@@ -76,7 +76,13 @@ A Software Engineer with 3 years of experience building reliable and scalable so
 
 ---
 <p align="center">
-  <i>Turning ideas into functional digital solutions, one project at a time.</i>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=180&section=footer&text=Keep%20Building.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65"
+    width="100%"
+    alt="Keep Building"
+  />
 </p>
+
+
 
 
