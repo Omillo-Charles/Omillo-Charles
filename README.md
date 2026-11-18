@@ -39,11 +39,11 @@ A Software Engineer with 3 years of experience building reliable and scalable so
   <tr>
     <td width="50%" valign="top">
       <a href="https://mhengagee.co.ke/">
-        <img src="YOUR_MHENGAGEE_SCREENSHOT_URL" width="100%" alt="MhengaGee Media"/>
+        <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795031657/Screenshot_2026-11-18_22-53-48_f6tguv.png" width="100%" alt="MhengaGee Media"/>
       </a>
       <h3>MhengaGee Media</h3>
       <p>Digital media publishing platform built to deliver news, articles and multimedia content.</p>
-      <a href="https://mhengagee.co.ke/">🌐 Live Demo</a>
+      <a href="https://mhengagee.co.ke/">mhengagee.co.ke</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://soltecelectric.co.ke/">
