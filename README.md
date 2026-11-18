@@ -65,11 +65,11 @@ A Software Engineer with 3 years of experience building reliable and scalable so
     </td>
     <td width="50%" valign="top">
       <a href="https://omytechkenya.co.ke/">
-        <img src="YOUR_OMYTECH_SCREENSHOT_URL" width="100%" alt="OMYTECH Kenya"/>
+        <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795032151/Screenshot_2026-11-18_23-02-08_zbhb2h.png" width="100%" alt="OMYTECH Kenya"/>
       </a>
       <h3>OMYTECH Kenya</h3>
       <p>Technology company website showcasing digital solutions, software engineering services and the company's capabilities.</p>
-      <a href="https://omytechkenya.co.ke/">🌐 Live Website</a>
+      <a href="https://omytechkenya.co.ke/">omytechkenya.co.ke</a>
     </td>
   </tr>
 </table>
