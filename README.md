@@ -15,7 +15,7 @@ A Software Engineer with 3 years of experience building reliable and scalable so
 </p>
 
 
-## 🚀 Featured Projects
+## A few I've done
 
 <table>
   <tr>
