@@ -21,11 +21,11 @@ A Software Engineer with 3 years of experience building reliable and scalable so
   <tr>
     <td width="50%" valign="top">
       <a href="https://castrahouseholds.co.ke/">
-        <img src="YOUR_CASTRA_SCREENSHOT_URL" width="100%" alt="Castra Households"/>
+        <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795031326/Screenshot_2026-11-18_22-47-13_xwsp9e.png" width="100%" alt="Castra Households"/>
       </a>
       <h3>Castra Households</h3>
       <p>E-commerce platform featuring product listings, shopping cart functionality and online payment integration.</p>
-      <a href="https://castrahouseholds.co.ke/">🌐 Live Demo</a>
+      <a href="https://castrahouseholds.co.ke/">castrahouseholds.co.ke</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://churchproject.omytechkenya.co.ke/">
