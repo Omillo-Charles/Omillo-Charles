@@ -57,11 +57,11 @@ A Software Engineer with 3 years of experience building reliable and scalable so
   <tr>
     <td width="50%" valign="top">
       <a href="https://rotntoothstudios.co.ke/">
-        <img src="YOUR_ROTＮTOOTH_SCREENSHOT_URL" width="100%" alt="RotNTooth Studios"/>
+        <img src="https://res.cloudinary.com/dtsa39r1g/image/upload/v1795031981/Screenshot_2026-11-03_14-26-54_tqxcjp.png" width="100%" alt="RotNTooth Studios"/>
       </a>
       <h3>RotNTooth Studios</h3>
       <p>Responsive media platform featuring Google Drive content integration and cross-device support.</p>
-      <a href="https://rotntoothstudios.co.ke/">🌐 Live Demo</a>
+      <a href="https://rotntoothstudios.co.ke/">rotntoothstudios.co.ke</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://omytechkenya.co.ke/">
